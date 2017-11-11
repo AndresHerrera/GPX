@@ -1,0 +1,4462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="EasyGPS 5.53" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+<metadata>
+<name>Spiwak_3tetas_Poste_Finca_Larga</name>
+<desc>Export from GpsPrune</desc>
+<bounds minlat="3.46634503" minlon="-76.54663545" maxlat="3.48117990" maxlon="-76.52973862"/>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-05-16T02:33:14.528Z</time>
+</extensions>
+</metadata>
+<wpt lat="3.46873400" lon="-76.53926000">
+<ele>1183.048</ele>
+<time>2016-05-14T13:46:21Z</time>
+<name>paso riachuelo</name>
+<sym>Bridge</sym>
+<extensions>
+<time xmlns="http://www.topografix.com/GPX/gpx_modified/0/1">2016-05-16T02:33:14.528Z</time>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+<label_text>paso riachuelo</label_text>
+</label>
+</extensions>
+</wpt>
+<trk>
+<name>Spiwak_3tetas_Poste_Finca_Larga</name>
+<extensions>
+<label xmlns="http://www.topografix.com/GPX/gpx_overlay/0/3">
+</label>
+</extensions>
+<trkseg>
+<trkpt lat="3.47591850" lon="-76.52973862">
+<ele>999.810</ele>
+<time>2016-05-14T11:48:12Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47592303" lon="-76.52979269">
+<ele>999.690</ele>
+<time>2016-05-14T11:48:15Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47586134" lon="-76.52984457">
+<ele>999.590</ele>
+<time>2016-05-14T11:48:20Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47580476" lon="-76.52987986">
+<ele>999.490</ele>
+<time>2016-05-14T11:48:27Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47579814" lon="-76.52996519">
+<ele>999.350</ele>
+<time>2016-05-14T11:48:30Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47575924" lon="-76.53002847">
+<ele>999.230</ele>
+<time>2016-05-14T11:48:34Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47577517" lon="-76.53010190">
+<ele>999.820</ele>
+<time>2016-05-14T11:48:47Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47584759" lon="-76.53013442">
+<ele>1000.600</ele>
+<time>2016-05-14T11:48:55Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47598773" lon="-76.53028378">
+<ele>1002.640</ele>
+<time>2016-05-14T11:49:09Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47600978" lon="-76.53031220">
+<ele>1003.020</ele>
+<time>2016-05-14T11:49:12Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47602520" lon="-76.53038789">
+<ele>1003.690</ele>
+<time>2016-05-14T11:49:19Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47596929" lon="-76.53059467">
+<ele>1005.620</ele>
+<time>2016-05-14T11:49:32Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47596594" lon="-76.53060774">
+<ele>1005.700</ele>
+<time>2016-05-14T11:49:33Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47586494" lon="-76.53080036">
+<ele>1007.190</ele>
+<time>2016-05-14T11:49:47Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47583803" lon="-76.53092810">
+<ele>1008.780</ele>
+<time>2016-05-14T11:49:58Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47589310" lon="-76.53113295">
+<ele>1011.590</ele>
+<time>2016-05-14T11:50:14Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47602679" lon="-76.53123949">
+<ele>1013.960</ele>
+<time>2016-05-14T11:50:25Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47618370" lon="-76.53136346">
+<ele>1016.730</ele>
+<time>2016-05-14T11:50:38Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47625587" lon="-76.53140453">
+<ele>1017.780</ele>
+<time>2016-05-14T11:50:44Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47636458" lon="-76.53164945">
+<ele>1020.980</ele>
+<time>2016-05-14T11:50:58Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47642401" lon="-76.53184097">
+<ele>1024.070</ele>
+<time>2016-05-14T11:51:11Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47640473" lon="-76.53202169">
+<ele>1027.100</ele>
+<time>2016-05-14T11:51:24Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47630407" lon="-76.53220307">
+<ele>1030.200</ele>
+<time>2016-05-14T11:51:37Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47620089" lon="-76.53239661">
+<ele>1033.350</ele>
+<time>2016-05-14T11:51:51Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47609687" lon="-76.53259518">
+<ele>1035.940</ele>
+<time>2016-05-14T11:52:04Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47589553" lon="-76.53261177">
+<ele>1037.460</ele>
+<time>2016-05-14T11:52:16Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47567886" lon="-76.53256550">
+<ele>1038.950</ele>
+<time>2016-05-14T11:52:29Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47546814" lon="-76.53254220">
+<ele>1041.590</ele>
+<time>2016-05-14T11:52:43Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47546395" lon="-76.53263700">
+<ele>1043.470</ele>
+<time>2016-05-14T11:52:50Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47566604" lon="-76.53273515">
+<ele>1045.860</ele>
+<time>2016-05-14T11:53:03Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47585111" lon="-76.53281864">
+<ele>1047.410</ele>
+<time>2016-05-14T11:53:16Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47604674" lon="-76.53298636">
+<ele>1049.530</ele>
+<time>2016-05-14T11:53:31Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47614716" lon="-76.53320194">
+<ele>1051.310</ele>
+<time>2016-05-14T11:53:45Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47618613" lon="-76.53341736">
+<ele>1053.160</ele>
+<time>2016-05-14T11:53:59Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47627046" lon="-76.53366135">
+<ele>1055.390</ele>
+<time>2016-05-14T11:54:13Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47637724" lon="-76.53384475">
+<ele>1057.680</ele>
+<time>2016-05-14T11:54:26Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47625520" lon="-76.53398314">
+<ele>1059.950</ele>
+<time>2016-05-14T11:54:39Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47604624" lon="-76.53396067">
+<ele>1062.550</ele>
+<time>2016-05-14T11:54:53Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47601581" lon="-76.53396143">
+<ele>1062.890</ele>
+<time>2016-05-14T11:54:55Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47599260" lon="-76.53401163">
+<ele>1064.090</ele>
+<time>2016-05-14T11:55:00Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47602059" lon="-76.53404810">
+<ele>1065.660</ele>
+<time>2016-05-14T11:55:04Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47604859" lon="-76.53413912">
+<ele>1068.250</ele>
+<time>2016-05-14T11:55:11Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47608153" lon="-76.53425572">
+<ele>1071.820</ele>
+<time>2016-05-14T11:55:21Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47609452" lon="-76.53429955">
+<ele>1073.350</ele>
+<time>2016-05-14T11:55:25Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47607784" lon="-76.53439603">
+<ele>1077.120</ele>
+<time>2016-05-14T11:55:32Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47608203" lon="-76.53447155">
+<ele>1079.590</ele>
+<time>2016-05-14T11:55:38Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47608899" lon="-76.53448647">
+<ele>1079.820</ele>
+<time>2016-05-14T11:55:39Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47623525" lon="-76.53464866">
+<ele>1082.520</ele>
+<time>2016-05-14T11:55:55Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47632226" lon="-76.53470113">
+<ele>1083.610</ele>
+<time>2016-05-14T11:56:10Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47631756" lon="-76.53470825">
+<ele>1083.780</ele>
+<time>2016-05-14T11:56:13Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47645427" lon="-76.53477154">
+<ele>1083.940</ele>
+<time>2016-05-14T11:56:51Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47672861" lon="-76.53475218">
+<ele>1081.520</ele>
+<time>2016-05-14T11:57:06Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47700899" lon="-76.53472728">
+<ele>1080.440</ele>
+<time>2016-05-14T11:57:18Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47738097" lon="-76.53471722">
+<ele>1080.420</ele>
+<time>2016-05-14T11:57:32Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47761801" lon="-76.53458420">
+<ele>1081.270</ele>
+<time>2016-05-14T11:57:43Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47770234" lon="-76.53430894">
+<ele>1083.110</ele>
+<time>2016-05-14T11:57:55Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47781599" lon="-76.53396210">
+<ele>1081.890</ele>
+<time>2016-05-14T11:58:10Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47785170" lon="-76.53392530">
+<ele>1081.010</ele>
+<time>2016-05-14T11:58:14Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47786830" lon="-76.53392807">
+<ele>1081.110</ele>
+<time>2016-05-14T11:58:23Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47792680" lon="-76.53388054">
+<ele>1081.130</ele>
+<time>2016-05-14T11:58:33Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47810458" lon="-76.53375674">
+<ele>1084.240</ele>
+<time>2016-05-14T11:58:50Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47831715" lon="-76.53360461">
+<ele>1087.300</ele>
+<time>2016-05-14T11:59:04Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47844556" lon="-76.53355792">
+<ele>1087.740</ele>
+<time>2016-05-14T11:59:11Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47854505" lon="-76.53352322">
+<ele>1089.490</ele>
+<time>2016-05-14T11:59:17Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47866508" lon="-76.53349724">
+<ele>1093.070</ele>
+<time>2016-05-14T11:59:24Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47887136" lon="-76.53349833">
+<ele>1096.740</ele>
+<time>2016-05-14T11:59:34Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47888209" lon="-76.53351249">
+<ele>1097.510</ele>
+<time>2016-05-14T11:59:36Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47891662" lon="-76.53353672">
+<ele>1100.400</ele>
+<time>2016-05-14T11:59:43Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47902232" lon="-76.53354200">
+<ele>1103.830</ele>
+<time>2016-05-14T11:59:51Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47902609" lon="-76.53354367">
+<ele>1104.070</ele>
+<time>2016-05-14T11:59:53Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47902425" lon="-76.53354845">
+<ele>1104.530</ele>
+<time>2016-05-14T11:59:56Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47901754" lon="-76.53381508">
+<ele>1111.520</ele>
+<time>2016-05-14T12:00:55Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47906113" lon="-76.53384643">
+<ele>1112.950</ele>
+<time>2016-05-14T12:01:02Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47920571" lon="-76.53386386">
+<ele>1116.120</ele>
+<time>2016-05-14T12:01:17Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47931652" lon="-76.53393871">
+<ele>1118.060</ele>
+<time>2016-05-14T12:01:36Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47934611" lon="-76.53400585">
+<ele>1121.220</ele>
+<time>2016-05-14T12:01:50Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47947787" lon="-76.53456895">
+<ele>1142.520</ele>
+<time>2016-05-14T12:03:08Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47952272" lon="-76.53464715">
+<ele>1145.670</ele>
+<time>2016-05-14T12:03:13Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47955616" lon="-76.53471680">
+<ele>1149.220</ele>
+<time>2016-05-14T12:03:19Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47957888" lon="-76.53475234">
+<ele>1150.850</ele>
+<time>2016-05-14T12:03:22Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47961727" lon="-76.53483113">
+<ele>1154.610</ele>
+<time>2016-05-14T12:03:28Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47962900" lon="-76.53485150">
+<ele>1155.400</ele>
+<time>2016-05-14T12:03:30Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47962422" lon="-76.53487237">
+<ele>1156.420</ele>
+<time>2016-05-14T12:03:32Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47964074" lon="-76.53492250">
+<ele>1159.280</ele>
+<time>2016-05-14T12:03:41Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>24.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48015538" lon="-76.53626117">
+<ele>1214.320</ele>
+<time>2016-05-14T12:07:59Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48021607" lon="-76.53637676">
+<ele>1216.720</ele>
+<time>2016-05-14T12:08:13Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48025681" lon="-76.53647491">
+<ele>1219.370</ele>
+<time>2016-05-14T12:08:28Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48025957" lon="-76.53648899">
+<ele>1220.180</ele>
+<time>2016-05-14T12:08:32Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48028195" lon="-76.53655638">
+<ele>1221.950</ele>
+<time>2016-05-14T12:08:40Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48031774" lon="-76.53662612">
+<ele>1224.970</ele>
+<time>2016-05-14T12:08:50Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48031984" lon="-76.53664087">
+<ele>1225.840</ele>
+<time>2016-05-14T12:08:54Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48061915" lon="-76.53701135">
+<ele>1245.420</ele>
+<time>2016-05-14T12:13:37Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48062770" lon="-76.53701537">
+<ele>1245.260</ele>
+<time>2016-05-14T12:13:40Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48067841" lon="-76.53714043">
+<ele>1242.670</ele>
+<time>2016-05-14T12:14:07Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48071638" lon="-76.53721880">
+<ele>1239.550</ele>
+<time>2016-05-14T12:14:12Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48069987" lon="-76.53734093">
+<ele>1237.110</ele>
+<time>2016-05-14T12:14:16Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48075469" lon="-76.53745266">
+<ele>1236.890</ele>
+<time>2016-05-14T12:14:22Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48076089" lon="-76.53751804">
+<ele>1238.850</ele>
+<time>2016-05-14T12:14:26Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48080289" lon="-76.53761703">
+<ele>1242.560</ele>
+<time>2016-05-14T12:14:33Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48080892" lon="-76.53764075">
+<ele>1243.700</ele>
+<time>2016-05-14T12:14:35Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48081261" lon="-76.53773043">
+<ele>1247.390</ele>
+<time>2016-05-14T12:14:41Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48082661" lon="-76.53780495">
+<ele>1250.310</ele>
+<time>2016-05-14T12:14:48Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48083214" lon="-76.53782540">
+<ele>1250.640</ele>
+<time>2016-05-14T12:14:50Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48104462" lon="-76.53940924">
+<ele>1272.170</ele>
+<time>2016-05-14T12:17:28Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48104428" lon="-76.53940774">
+<ele>1272.420</ele>
+<time>2016-05-14T12:17:30Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48102752" lon="-76.53940623">
+<ele>1272.360</ele>
+<time>2016-05-14T12:19:30Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48102869" lon="-76.53941369">
+<ele>1272.400</ele>
+<time>2016-05-14T12:19:32Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48062846" lon="-76.53960387">
+<ele>1288.510</ele>
+<time>2016-05-14T12:21:15Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48061102" lon="-76.53972407">
+<ele>1291.640</ele>
+<time>2016-05-14T12:21:32Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48059719" lon="-76.53979825">
+<ele>1294.330</ele>
+<time>2016-05-14T12:21:44Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48055503" lon="-76.53990344">
+<ele>1298.550</ele>
+<time>2016-05-14T12:21:57Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48055612" lon="-76.53996245">
+<ele>1300.730</ele>
+<time>2016-05-14T12:22:01Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48055780" lon="-76.54003294">
+<ele>1303.970</ele>
+<time>2016-05-14T12:22:07Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48055445" lon="-76.54004158">
+<ele>1304.450</ele>
+<time>2016-05-14T12:22:08Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48053215" lon="-76.54006387">
+<ele>1306.150</ele>
+<time>2016-05-14T12:22:12Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48050650" lon="-76.54013160">
+<ele>1309.530</ele>
+<time>2016-05-14T12:22:19Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48048018" lon="-76.54018105">
+<ele>1312.800</ele>
+<time>2016-05-14T12:22:25Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48047893" lon="-76.54020729">
+<ele>1314.820</ele>
+<time>2016-05-14T12:22:29Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48049628" lon="-76.54022774">
+<ele>1316.940</ele>
+<time>2016-05-14T12:22:35Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48034649" lon="-76.54083861">
+<ele>1347.890</ele>
+<time>2016-05-14T12:29:00Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48035462" lon="-76.54084917">
+<ele>1347.220</ele>
+<time>2016-05-14T12:29:03Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48035420" lon="-76.54089251">
+<ele>1346.470</ele>
+<time>2016-05-14T12:29:07Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48037348" lon="-76.54094246">
+<ele>1345.520</ele>
+<time>2016-05-14T12:29:11Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48032227" lon="-76.54102326">
+<ele>1342.250</ele>
+<time>2016-05-14T12:29:18Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48028799" lon="-76.54110767">
+<ele>1339.080</ele>
+<time>2016-05-14T12:29:24Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48033333" lon="-76.54118001">
+<ele>1335.760</ele>
+<time>2016-05-14T12:29:28Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48031011" lon="-76.54129735">
+<ele>1331.750</ele>
+<time>2016-05-14T12:29:32Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48041170" lon="-76.54154780">
+<ele>1330.420</ele>
+<time>2016-05-14T12:29:41Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48060801" lon="-76.54167613">
+<ele>1333.660</ele>
+<time>2016-05-14T12:29:50Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48064187" lon="-76.54169926">
+<ele>1334.160</ele>
+<time>2016-05-14T12:29:52Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48076265" lon="-76.54184947">
+<ele>1336.230</ele>
+<time>2016-05-14T12:30:02Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48080775" lon="-76.54187688">
+<ele>1339.540</ele>
+<time>2016-05-14T12:30:14Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48083197" lon="-76.54191728">
+<ele>1340.480</ele>
+<time>2016-05-14T12:30:18Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48083499" lon="-76.54196279">
+<ele>1342.740</ele>
+<time>2016-05-14T12:30:24Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48086877" lon="-76.54202498">
+<ele>1343.980</ele>
+<time>2016-05-14T12:30:31Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48097178" lon="-76.54215256">
+<ele>1346.810</ele>
+<time>2016-05-14T12:30:48Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48104873" lon="-76.54233637">
+<ele>1349.910</ele>
+<time>2016-05-14T12:31:09Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48109759" lon="-76.54247744">
+<ele>1353.010</ele>
+<time>2016-05-14T12:31:27Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48115325" lon="-76.54260451">
+<ele>1356.130</ele>
+<time>2016-05-14T12:31:43Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48117990" lon="-76.54271456">
+<ele>1359.180</ele>
+<time>2016-05-14T12:31:57Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48117881" lon="-76.54286426">
+<ele>1362.320</ele>
+<time>2016-05-14T12:32:12Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48117404" lon="-76.54289452">
+<ele>1363.290</ele>
+<time>2016-05-14T12:32:15Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48115652" lon="-76.54301237">
+<ele>1366.790</ele>
+<time>2016-05-14T12:32:26Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48113121" lon="-76.54311136">
+<ele>1370.110</ele>
+<time>2016-05-14T12:32:36Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48111754" lon="-76.54322251">
+<ele>1373.210</ele>
+<time>2016-05-14T12:32:45Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48111360" lon="-76.54331605">
+<ele>1376.230</ele>
+<time>2016-05-14T12:32:56Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48109432" lon="-76.54340733">
+<ele>1379.460</ele>
+<time>2016-05-14T12:33:11Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48105242" lon="-76.54348520">
+<ele>1382.630</ele>
+<time>2016-05-14T12:33:24Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48100372" lon="-76.54354253">
+<ele>1385.650</ele>
+<time>2016-05-14T12:33:38Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48099751" lon="-76.54355426">
+<ele>1386.450</ele>
+<time>2016-05-14T12:33:41Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48061035" lon="-76.54377270">
+<ele>1395.120</ele>
+<time>2016-05-14T12:39:03Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48046862" lon="-76.54377898">
+<ele>1396.230</ele>
+<time>2016-05-14T12:39:19Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48027810" lon="-76.54383330">
+<ele>1394.140</ele>
+<time>2016-05-14T12:39:39Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48020383" lon="-76.54387906">
+<ele>1393.050</ele>
+<time>2016-05-14T12:39:46Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48015840" lon="-76.54389247">
+<ele>1392.530</ele>
+<time>2016-05-14T12:39:50Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48003360" lon="-76.54395835">
+<ele>1390.940</ele>
+<time>2016-05-14T12:40:02Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.48000015" lon="-76.54397059">
+<ele>1390.610</ele>
+<time>2016-05-14T12:40:05Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47994072" lon="-76.54401351">
+<ele>1389.620</ele>
+<time>2016-05-14T12:40:11Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47977627" lon="-76.54408417">
+<ele>1388.600</ele>
+<time>2016-05-14T12:40:27Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47966412" lon="-76.54413303">
+<ele>1388.230</ele>
+<time>2016-05-14T12:40:37Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47955708" lon="-76.54419112">
+<ele>1389.150</ele>
+<time>2016-05-14T12:40:48Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47949212" lon="-76.54423672">
+<ele>1389.510</ele>
+<time>2016-05-14T12:40:55Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47935609" lon="-76.54428056">
+<ele>1389.800</ele>
+<time>2016-05-14T12:41:08Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47920035" lon="-76.54437552">
+<ele>1392.320</ele>
+<time>2016-05-14T12:41:26Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47906875" lon="-76.54445029">
+<ele>1395.490</ele>
+<time>2016-05-14T12:41:45Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47895015" lon="-76.54450460">
+<ele>1398.180</ele>
+<time>2016-05-14T12:41:58Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47885585" lon="-76.54453277">
+<ele>1399.520</ele>
+<time>2016-05-14T12:42:08Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47880900" lon="-76.54461818">
+<ele>1399.810</ele>
+<time>2016-05-14T12:42:17Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47861236" lon="-76.54468104">
+<ele>1399.410</ele>
+<time>2016-05-14T12:42:34Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47856961" lon="-76.54468079">
+<ele>1399.620</ele>
+<time>2016-05-14T12:42:38Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47849996" lon="-76.54467224">
+<ele>1400.160</ele>
+<time>2016-05-14T12:42:45Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47834271" lon="-76.54462379">
+<ele>1401.330</ele>
+<time>2016-05-14T12:43:00Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47826619" lon="-76.54466830">
+<ele>1401.910</ele>
+<time>2016-05-14T12:43:09Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47815932" lon="-76.54469864">
+<ele>1401.960</ele>
+<time>2016-05-14T12:43:18Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47795530" lon="-76.54471792">
+<ele>1399.710</ele>
+<time>2016-05-14T12:43:37Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47787785" lon="-76.54475288">
+<ele>1397.970</ele>
+<time>2016-05-14T12:43:46Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47785028" lon="-76.54477852">
+<ele>1397.230</ele>
+<time>2016-05-14T12:43:50Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47774793" lon="-76.54487114">
+<ele>1393.700</ele>
+<time>2016-05-14T12:44:02Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47771533" lon="-76.54490769">
+<ele>1392.960</ele>
+<time>2016-05-14T12:44:07Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47760360" lon="-76.54495840">
+<ele>1389.580</ele>
+<time>2016-05-14T12:44:18Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47759270" lon="-76.54496402">
+<ele>1389.220</ele>
+<time>2016-05-14T12:44:19Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47747703" lon="-76.54501439">
+<ele>1385.790</ele>
+<time>2016-05-14T12:44:31Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47733672" lon="-76.54506661">
+<ele>1382.700</ele>
+<time>2016-05-14T12:44:43Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47725173" lon="-76.54508371">
+<ele>1381.600</ele>
+<time>2016-05-14T12:44:50Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47716120" lon="-76.54522411">
+<ele>1381.310</ele>
+<time>2016-05-14T12:45:03Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47709431" lon="-76.54529954">
+<ele>1381.050</ele>
+<time>2016-05-14T12:45:11Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47704696" lon="-76.54533776">
+<ele>1381.540</ele>
+<time>2016-05-14T12:45:16Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47689717" lon="-76.54546618">
+<ele>1381.350</ele>
+<time>2016-05-14T12:45:31Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47674378" lon="-76.54558872">
+<ele>1381.340</ele>
+<time>2016-05-14T12:45:46Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47668863" lon="-76.54562602">
+<ele>1381.510</ele>
+<time>2016-05-14T12:45:52Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47658629" lon="-76.54573624">
+<ele>1381.590</ele>
+<time>2016-05-14T12:46:04Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47650926" lon="-76.54578888">
+<ele>1381.510</ele>
+<time>2016-05-14T12:46:12Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47644581" lon="-76.54585090">
+<ele>1381.600</ele>
+<time>2016-05-14T12:46:19Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47640457" lon="-76.54589491">
+<ele>1381.620</ele>
+<time>2016-05-14T12:46:24Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47625277" lon="-76.54598300">
+<ele>1381.730</ele>
+<time>2016-05-14T12:46:38Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47620977" lon="-76.54598795">
+<ele>1381.680</ele>
+<time>2016-05-14T12:46:42Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47617717" lon="-76.54598602">
+<ele>1381.610</ele>
+<time>2016-05-14T12:46:45Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47599545" lon="-76.54596959">
+<ele>1381.720</ele>
+<time>2016-05-14T12:47:01Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47597692" lon="-76.54597202">
+<ele>1381.720</ele>
+<time>2016-05-14T12:47:03Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47589956" lon="-76.54597387">
+<ele>1381.790</ele>
+<time>2016-05-14T12:47:09Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47583099" lon="-76.54596381">
+<ele>1381.730</ele>
+<time>2016-05-14T12:47:14Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47573938" lon="-76.54591595">
+<ele>1381.910</ele>
+<time>2016-05-14T12:47:22Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47571633" lon="-76.54590899">
+<ele>1381.950</ele>
+<time>2016-05-14T12:47:24Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47567383" lon="-76.54588753">
+<ele>1381.950</ele>
+<time>2016-05-14T12:47:28Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47564114" lon="-76.54586851">
+<ele>1381.880</ele>
+<time>2016-05-14T12:47:31Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47546672" lon="-76.54580623">
+<ele>1381.230</ele>
+<time>2016-05-14T12:47:46Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47528634" lon="-76.54571177">
+<ele>1381.840</ele>
+<time>2016-05-14T12:48:02Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47515550" lon="-76.54563557">
+<ele>1381.940</ele>
+<time>2016-05-14T12:48:13Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47498920" lon="-76.54559467">
+<ele>1381.940</ele>
+<time>2016-05-14T12:48:26Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47493505" lon="-76.54557891">
+<ele>1381.910</ele>
+<time>2016-05-14T12:48:31Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47486481" lon="-76.54554362">
+<ele>1382.020</ele>
+<time>2016-05-14T12:48:37Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>31.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47468301" lon="-76.54549526">
+<ele>1381.560</ele>
+<time>2016-05-14T12:48:52Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47456398" lon="-76.54549166">
+<ele>1381.230</ele>
+<time>2016-05-14T12:49:01Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47447866" lon="-76.54548679">
+<ele>1381.450</ele>
+<time>2016-05-14T12:49:08Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47428931" lon="-76.54552066">
+<ele>1381.570</ele>
+<time>2016-05-14T12:49:22Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47416920" lon="-76.54560020">
+<ele>1381.520</ele>
+<time>2016-05-14T12:49:33Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47403106" lon="-76.54575585">
+<ele>1381.190</ele>
+<time>2016-05-14T12:49:48Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47387876" lon="-76.54589332">
+<ele>1380.800</ele>
+<time>2016-05-14T12:50:02Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47379193" lon="-76.54595811">
+<ele>1380.790</ele>
+<time>2016-05-14T12:50:11Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47361976" lon="-76.54603925">
+<ele>1380.470</ele>
+<time>2016-05-14T12:50:25Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47330569" lon="-76.54612323">
+<ele>1379.920</ele>
+<time>2016-05-14T12:50:38Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47299766" lon="-76.54610664">
+<ele>1379.070</ele>
+<time>2016-05-14T12:50:49Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47269155" lon="-76.54601561">
+<ele>1378.460</ele>
+<time>2016-05-14T12:51:00Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47259013" lon="-76.54599482">
+<ele>1378.280</ele>
+<time>2016-05-14T12:51:04Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47252727" lon="-76.54600027">
+<ele>1378.120</ele>
+<time>2016-05-14T12:51:15Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47247127" lon="-76.54598024">
+<ele>1378.230</ele>
+<time>2016-05-14T12:51:19Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47221873" lon="-76.54592190">
+<ele>1377.970</ele>
+<time>2016-05-14T12:51:31Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47193785" lon="-76.54586046">
+<ele>1377.470</ele>
+<time>2016-05-14T12:51:45Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47160945" lon="-76.54580179">
+<ele>1377.650</ele>
+<time>2016-05-14T12:52:01Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47137199" lon="-76.54574647">
+<ele>1377.840</ele>
+<time>2016-05-14T12:52:13Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47105079" lon="-76.54568377">
+<ele>1379.270</ele>
+<time>2016-05-14T12:52:27Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47081149" lon="-76.54564781">
+<ele>1380.810</ele>
+<time>2016-05-14T12:52:39Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47050941" lon="-76.54564932">
+<ele>1382.960</ele>
+<time>2016-05-14T12:52:54Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47021327" lon="-76.54572191">
+<ele>1384.900</ele>
+<time>2016-05-14T12:53:08Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46992225" lon="-76.54577807">
+<ele>1387.280</ele>
+<time>2016-05-14T12:53:23Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46968823" lon="-76.54577211">
+<ele>1389.660</ele>
+<time>2016-05-14T12:53:35Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46945362" lon="-76.54573632">
+<ele>1391.500</ele>
+<time>2016-05-14T12:53:47Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46924458" lon="-76.54580891">
+<ele>1393.140</ele>
+<time>2016-05-14T12:53:57Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46898306" lon="-76.54597202">
+<ele>1395.300</ele>
+<time>2016-05-14T12:54:11Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46874049" lon="-76.54614771">
+<ele>1398.270</ele>
+<time>2016-05-14T12:54:25Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46848216" lon="-76.54622491">
+<ele>1400.700</ele>
+<time>2016-05-14T12:54:37Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46820572" lon="-76.54632892">
+<ele>1403.400</ele>
+<time>2016-05-14T12:54:50Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46796198" lon="-76.54644870">
+<ele>1406.180</ele>
+<time>2016-05-14T12:55:02Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46765637" lon="-76.54651685">
+<ele>1409.090</ele>
+<time>2016-05-14T12:55:16Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46736586" lon="-76.54644074">
+<ele>1412.030</ele>
+<time>2016-05-14T12:55:30Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46709588" lon="-76.54638927">
+<ele>1414.870</ele>
+<time>2016-05-14T12:55:42Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46682824" lon="-76.54628584">
+<ele>1417.880</ele>
+<time>2016-05-14T12:55:54Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46657737" lon="-76.54614662">
+<ele>1420.640</ele>
+<time>2016-05-14T12:56:07Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46644511" lon="-76.54593238">
+<ele>1423.270</ele>
+<time>2016-05-14T12:56:19Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46637168" lon="-76.54570330">
+<ele>1426.230</ele>
+<time>2016-05-14T12:56:31Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46639398" lon="-76.54548638">
+<ele>1429.560</ele>
+<time>2016-05-14T12:56:44Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46646229" lon="-76.54538487">
+<ele>1430.400</ele>
+<time>2016-05-14T12:56:51Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46647855" lon="-76.54538487">
+<ele>1430.980</ele>
+<time>2016-05-14T12:56:53Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46649800" lon="-76.54538764">
+<ele>1431.310</ele>
+<time>2016-05-14T12:56:55Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46669992" lon="-76.54539074">
+<ele>1433.220</ele>
+<time>2016-05-14T12:57:05Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46696872" lon="-76.54531941">
+<ele>1436.160</ele>
+<time>2016-05-14T12:57:19Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46699253" lon="-76.54531421">
+<ele>1436.150</ele>
+<time>2016-05-14T12:57:22Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46636472" lon="-76.54554237">
+<ele>1426.630</ele>
+<time>2016-05-14T13:18:09Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46634503" lon="-76.54577287">
+<ele>1423.610</ele>
+<time>2016-05-14T13:18:32Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46635927" lon="-76.54587622">
+<ele>1422.360</ele>
+<time>2016-05-14T13:18:42Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46648257" lon="-76.54615366">
+<ele>1419.410</ele>
+<time>2016-05-14T13:19:07Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46687417" lon="-76.54633286">
+<ele>1416.150</ele>
+<time>2016-05-14T13:19:33Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46695690" lon="-76.54635860">
+<ele>1414.910</ele>
+<time>2016-05-14T13:19:39Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46703653" lon="-76.54638483">
+<ele>1414.090</ele>
+<time>2016-05-14T13:19:46Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46707207" lon="-76.54638894">
+<ele>1413.760</ele>
+<time>2016-05-14T13:19:50Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46719545" lon="-76.54644979">
+<ele>1412.380</ele>
+<time>2016-05-14T13:20:05Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46719629" lon="-76.54644543">
+<ele>1412.120</ele>
+<time>2016-05-14T13:20:07Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46734457" lon="-76.54647795">
+<ele>1410.980</ele>
+<time>2016-05-14T13:20:43Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46760323" lon="-76.54655540">
+<ele>1408.240</ele>
+<time>2016-05-14T13:21:08Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46775226" lon="-76.54663545">
+<ele>1406.830</ele>
+<time>2016-05-14T13:21:21Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46791579" lon="-76.54659262">
+<ele>1405.530</ele>
+<time>2016-05-14T13:21:33Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46801101" lon="-76.54657041">
+<ele>1404.660</ele>
+<time>2016-05-14T13:21:40Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46806365" lon="-76.54655264">
+<ele>1404.120</ele>
+<time>2016-05-14T13:21:45Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46810279" lon="-76.54653051">
+<ele>1403.560</ele>
+<time>2016-05-14T13:21:49Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46826096" lon="-76.54642817">
+<ele>1401.670</ele>
+<time>2016-05-14T13:22:05Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46850990" lon="-76.54635591">
+<ele>1399.410</ele>
+<time>2016-05-14T13:22:27Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46868710" lon="-76.54632289">
+<ele>1397.660</ele>
+<time>2016-05-14T13:22:42Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46885968" lon="-76.54622859">
+<ele>1396.150</ele>
+<time>2016-05-14T13:22:57Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46894794" lon="-76.54615358">
+<ele>1395.270</ele>
+<time>2016-05-14T13:23:05Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46907845" lon="-76.54604285">
+<ele>1393.830</ele>
+<time>2016-05-14T13:23:18Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46922153" lon="-76.54592894">
+<ele>1392.260</ele>
+<time>2016-05-14T13:23:32Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46925564" lon="-76.54590908">
+<ele>1391.990</ele>
+<time>2016-05-14T13:23:35Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46928934" lon="-76.54589382">
+<ele>1391.690</ele>
+<time>2016-05-14T13:23:38Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46947273" lon="-76.54582199">
+<ele>1390.180</ele>
+<time>2016-05-14T13:23:54Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46969536" lon="-76.54584722">
+<ele>1388.300</ele>
+<time>2016-05-14T13:24:14Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46997070" lon="-76.54585049">
+<ele>1385.770</ele>
+<time>2016-05-14T13:24:33Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47012937" lon="-76.54584898">
+<ele>1384.450</ele>
+<time>2016-05-14T13:24:45Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47016030" lon="-76.54584068">
+<ele>1384.220</ele>
+<time>2016-05-14T13:24:47Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47026600" lon="-76.54579081">
+<ele>1383.020</ele>
+<time>2016-05-14T13:24:57Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47040061" lon="-76.54574186">
+<ele>1382.140</ele>
+<time>2016-05-14T13:25:09Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47055484" lon="-76.54571487">
+<ele>1381.040</ele>
+<time>2016-05-14T13:25:23Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47065550" lon="-76.54571503">
+<ele>1380.200</ele>
+<time>2016-05-14T13:25:32Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47073806" lon="-76.54572853">
+<ele>1379.300</ele>
+<time>2016-05-14T13:25:39Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47077478" lon="-76.54573071">
+<ele>1379.010</ele>
+<time>2016-05-14T13:25:42Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47080302" lon="-76.54571872">
+<ele>1378.680</ele>
+<time>2016-05-14T13:25:45Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47109186" lon="-76.54575409">
+<ele>1376.520</ele>
+<time>2016-05-14T13:25:59Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47142010" lon="-76.54582467">
+<ele>1375.400</ele>
+<time>2016-05-14T13:26:15Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47171271" lon="-76.54586608">
+<ele>1374.850</ele>
+<time>2016-05-14T13:26:29Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47197121" lon="-76.54591880">
+<ele>1374.650</ele>
+<time>2016-05-14T13:26:41Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47221244" lon="-76.54596465">
+<ele>1375.290</ele>
+<time>2016-05-14T13:26:55Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47243381" lon="-76.54603179">
+<ele>1375.270</ele>
+<time>2016-05-14T13:27:07Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47267554" lon="-76.54607738">
+<ele>1375.580</ele>
+<time>2016-05-14T13:27:22Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47287419" lon="-76.54611217">
+<ele>1375.790</ele>
+<time>2016-05-14T13:27:34Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47309472" lon="-76.54614662">
+<ele>1376.240</ele>
+<time>2016-05-14T13:27:45Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47338675" lon="-76.54613715">
+<ele>1376.710</ele>
+<time>2016-05-14T13:27:59Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47364835" lon="-76.54603262">
+<ele>1377.020</ele>
+<time>2016-05-14T13:28:10Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47389687" lon="-76.54584914">
+<ele>1377.510</ele>
+<time>2016-05-14T13:28:22Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47411932" lon="-76.54564220">
+<ele>1377.720</ele>
+<time>2016-05-14T13:28:37Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47426919" lon="-76.54548026">
+<ele>1378.680</ele>
+<time>2016-05-14T13:28:49Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47427347" lon="-76.54546886">
+<ele>1378.850</ele>
+<time>2016-05-14T13:28:50Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>25.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47430758" lon="-76.54532075">
+<ele>1375.560</ele>
+<time>2016-05-14T13:29:03Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47430800" lon="-76.54524364">
+<ele>1372.670</ele>
+<time>2016-05-14T13:29:14Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47430180" lon="-76.54522679">
+<ele>1371.930</ele>
+<time>2016-05-14T13:29:16Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47430188" lon="-76.54513165">
+<ele>1368.660</ele>
+<time>2016-05-14T13:29:25Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47429484" lon="-76.54504951">
+<ele>1365.750</ele>
+<time>2016-05-14T13:29:33Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47424572" lon="-76.54494943">
+<ele>1362.790</ele>
+<time>2016-05-14T13:29:40Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47419795" lon="-76.54492403">
+<ele>1360.110</ele>
+<time>2016-05-14T13:29:48Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47418965" lon="-76.54489042">
+<ele>1359.990</ele>
+<time>2016-05-14T13:29:55Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47418604" lon="-76.54487098">
+<ele>1359.720</ele>
+<time>2016-05-14T13:29:56Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47419074" lon="-76.54476520">
+<ele>1356.200</ele>
+<time>2016-05-14T13:30:05Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47424120" lon="-76.54467383">
+<ele>1353.260</ele>
+<time>2016-05-14T13:30:15Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47424941" lon="-76.54454945">
+<ele>1349.960</ele>
+<time>2016-05-14T13:30:29Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47426919" lon="-76.54452782">
+<ele>1348.610</ele>
+<time>2016-05-14T13:30:34Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47430808" lon="-76.54450662">
+<ele>1347.210</ele>
+<time>2016-05-14T13:30:38Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47439241" lon="-76.54452841">
+<ele>1346.190</ele>
+<time>2016-05-14T13:30:46Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47444764" lon="-76.54450385">
+<ele>1345.690</ele>
+<time>2016-05-14T13:30:51Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47445334" lon="-76.54437737">
+<ele>1343.270</ele>
+<time>2016-05-14T13:31:00Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47452526" lon="-76.54430620">
+<ele>1339.800</ele>
+<time>2016-05-14T13:31:12Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47451872" lon="-76.54425105">
+<ele>1338.200</ele>
+<time>2016-05-14T13:31:18Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47451587" lon="-76.54411074">
+<ele>1334.560</ele>
+<time>2016-05-14T13:31:27Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47444446" lon="-76.54405265">
+<ele>1331.050</ele>
+<time>2016-05-14T13:31:33Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47443398" lon="-76.54404134">
+<ele>1330.330</ele>
+<time>2016-05-14T13:31:34Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47438453" lon="-76.54399565">
+<ele>1327.150</ele>
+<time>2016-05-14T13:31:40Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47437204" lon="-76.54399356">
+<ele>1326.860</ele>
+<time>2016-05-14T13:31:44Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47431395" lon="-76.54388183">
+<ele>1322.130</ele>
+<time>2016-05-14T13:32:04Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47429861" lon="-76.54379994">
+<ele>1319.050</ele>
+<time>2016-05-14T13:32:17Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47426198" lon="-76.54365895">
+<ele>1315.750</ele>
+<time>2016-05-14T13:32:32Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47414263" lon="-76.54350774">
+<ele>1312.530</ele>
+<time>2016-05-14T13:32:49Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47407758" lon="-76.54342468">
+<ele>1309.300</ele>
+<time>2016-05-14T13:33:00Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47398999" lon="-76.54331865">
+<ele>1306.180</ele>
+<time>2016-05-14T13:33:12Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47388430" lon="-76.54322477">
+<ele>1303.860</ele>
+<time>2016-05-14T13:33:25Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47377952" lon="-76.54312980">
+<ele>1300.530</ele>
+<time>2016-05-14T13:33:37Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47364675" lon="-76.54307817">
+<ele>1297.420</ele>
+<time>2016-05-14T13:33:53Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47362814" lon="-76.54300877">
+<ele>1295.320</ele>
+<time>2016-05-14T13:34:04Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47362647" lon="-76.54297725">
+<ele>1296.820</ele>
+<time>2016-05-14T13:35:33Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47360727" lon="-76.54300273">
+<ele>1297.170</ele>
+<time>2016-05-14T13:35:40Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47364751" lon="-76.54303006">
+<ele>1296.710</ele>
+<time>2016-05-14T13:36:24Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47365572" lon="-76.54302268">
+<ele>1296.760</ele>
+<time>2016-05-14T13:36:28Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47361892" lon="-76.54303190">
+<ele>1295.340</ele>
+<time>2016-05-14T13:37:24Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47361742" lon="-76.54300382">
+<ele>1293.900</ele>
+<time>2016-05-14T13:37:26Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47359898" lon="-76.54286209">
+<ele>1289.880</ele>
+<time>2016-05-14T13:37:33Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47362395" lon="-76.54275966">
+<ele>1286.270</ele>
+<time>2016-05-14T13:37:41Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47348616" lon="-76.54259562">
+<ele>1284.450</ele>
+<time>2016-05-14T13:37:51Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47329379" lon="-76.54242036">
+<ele>1284.100</ele>
+<time>2016-05-14T13:38:03Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47326001" lon="-76.54228097">
+<ele>1281.460</ele>
+<time>2016-05-14T13:38:09Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47320880" lon="-76.54220997">
+<ele>1279.960</ele>
+<time>2016-05-14T13:38:13Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47309103" lon="-76.54217770">
+<ele>1278.160</ele>
+<time>2016-05-14T13:38:19Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47285927" lon="-76.54210193">
+<ele>1274.440</ele>
+<time>2016-05-14T13:38:31Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47279574" lon="-76.54203605">
+<ele>1272.940</ele>
+<time>2016-05-14T13:38:35Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47269096" lon="-76.54200034">
+<ele>1271.020</ele>
+<time>2016-05-14T13:38:39Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47255467" lon="-76.54194343">
+<ele>1269.080</ele>
+<time>2016-05-14T13:38:45Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47243884" lon="-76.54194913">
+<ele>1268.180</ele>
+<time>2016-05-14T13:39:00Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47242668" lon="-76.54194896">
+<ele>1267.820</ele>
+<time>2016-05-14T13:39:04Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47233725" lon="-76.54188274">
+<ele>1267.970</ele>
+<time>2016-05-14T13:39:46Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47205176" lon="-76.54183698">
+<ele>1266.440</ele>
+<time>2016-05-14T13:40:02Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47183282" lon="-76.54181259">
+<ele>1264.840</ele>
+<time>2016-05-14T13:40:12Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47180927" lon="-76.54168527">
+<ele>1263.700</ele>
+<time>2016-05-14T13:40:19Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47174456" lon="-76.54139718">
+<ele>1261.340</ele>
+<time>2016-05-14T13:40:32Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47151607" lon="-76.54123776">
+<ele>1259.690</ele>
+<time>2016-05-14T13:40:44Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47128968" lon="-76.54123574">
+<ele>1257.580</ele>
+<time>2016-05-14T13:40:55Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47118088" lon="-76.54106802">
+<ele>1255.070</ele>
+<time>2016-05-14T13:41:07Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47121525" lon="-76.54077072">
+<ele>1253.000</ele>
+<time>2016-05-14T13:41:22Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>26.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47115641" lon="-76.54051214">
+<ele>1251.650</ele>
+<time>2016-05-14T13:41:34Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47096572" lon="-76.54036914">
+<ele>1249.000</ele>
+<time>2016-05-14T13:41:46Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47066456" lon="-76.54027015">
+<ele>1245.830</ele>
+<time>2016-05-14T13:42:00Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47032559" lon="-76.54022371">
+<ele>1242.880</ele>
+<time>2016-05-14T13:42:15Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47004035" lon="-76.54027769">
+<ele>1240.150</ele>
+<time>2016-05-14T13:42:28Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46976761" lon="-76.54031935">
+<ele>1238.410</ele>
+<time>2016-05-14T13:42:40Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46954574" lon="-76.54048163">
+<ele>1236.760</ele>
+<time>2016-05-14T13:42:51Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46930090" lon="-76.54073811">
+<ele>1234.750</ele>
+<time>2016-05-14T13:43:05Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46909236" lon="-76.54100214">
+<ele>1233.740</ele>
+<time>2016-05-14T13:43:18Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46887904" lon="-76.54112175">
+<ele>1231.410</ele>
+<time>2016-05-14T13:43:28Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46869422" lon="-76.54108588">
+<ele>1228.300</ele>
+<time>2016-05-14T13:43:35Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46853212" lon="-76.54091162">
+<ele>1225.230</ele>
+<time>2016-05-14T13:43:45Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46849666" lon="-76.54086283">
+<ele>1224.450</ele>
+<time>2016-05-14T13:43:47Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46837831" lon="-76.54068313">
+<ele>1222.000</ele>
+<time>2016-05-14T13:43:55Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46814747" lon="-76.54066284">
+<ele>1218.960</ele>
+<time>2016-05-14T13:44:04Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46781144" lon="-76.54073560">
+<ele>1215.920</ele>
+<time>2016-05-14T13:44:17Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46765017" lon="-76.54057098">
+<ele>1213.180</ele>
+<time>2016-05-14T13:44:27Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46765897" lon="-76.54034425">
+<ele>1210.000</ele>
+<time>2016-05-14T13:44:35Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46773340" lon="-76.54022858">
+<ele>1207.020</ele>
+<time>2016-05-14T13:44:40Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46782871" lon="-76.54011131">
+<ele>1203.860</ele>
+<time>2016-05-14T13:44:46Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46795410" lon="-76.53998567">
+<ele>1202.500</ele>
+<time>2016-05-14T13:44:53Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46804546" lon="-76.53994166">
+<ele>1204.260</ele>
+<time>2016-05-14T13:44:59Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46831259" lon="-76.53979791">
+<ele>1201.230</ele>
+<time>2016-05-14T13:45:13Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46839474" lon="-76.53974771">
+<ele>1200.090</ele>
+<time>2016-05-14T13:45:17Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>27.90</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46833564" lon="-76.53958501">
+<ele>1197.930</ele>
+<time>2016-05-14T13:45:25Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46829348" lon="-76.53956003">
+<ele>1197.570</ele>
+<time>2016-05-14T13:45:27Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46812475" lon="-76.53937496">
+<ele>1194.190</ele>
+<time>2016-05-14T13:45:37Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46811654" lon="-76.53923834">
+<ele>1191.860</ele>
+<time>2016-05-14T13:45:43Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46829281" lon="-76.53910473">
+<ele>1188.430</ele>
+<time>2016-05-14T13:45:53Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46837982" lon="-76.53911747">
+<ele>1187.380</ele>
+<time>2016-05-14T13:45:57Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46858132" lon="-76.53920900">
+<ele>1184.060</ele>
+<time>2016-05-14T13:46:07Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46873102" lon="-76.53926181">
+<ele>1183.020</ele>
+<time>2016-05-14T13:46:19Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46873454" lon="-76.53925745">
+<ele>1183.050</ele>
+<time>2016-05-14T13:46:21Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46874770" lon="-76.53917950">
+<ele>1182.440</ele>
+<time>2016-05-14T13:46:35Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46882967" lon="-76.53885394">
+<ele>1179.120</ele>
+<time>2016-05-14T13:46:49Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46890620" lon="-76.53852529">
+<ele>1178.680</ele>
+<time>2016-05-14T13:47:02Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46897141" lon="-76.53825422">
+<ele>1178.900</ele>
+<time>2016-05-14T13:47:13Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46914475" lon="-76.53791249">
+<ele>1178.350</ele>
+<time>2016-05-14T13:47:27Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46936125" lon="-76.53771266">
+<ele>1177.450</ele>
+<time>2016-05-14T13:47:38Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46966225" lon="-76.53763790">
+<ele>1177.190</ele>
+<time>2016-05-14T13:47:49Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.46991085" lon="-76.53772180">
+<ele>1177.180</ele>
+<time>2016-05-14T13:48:01Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47001353" lon="-76.53802271">
+<ele>1176.650</ele>
+<time>2016-05-14T13:48:15Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47013222" lon="-76.53827459">
+<ele>1175.540</ele>
+<time>2016-05-14T13:48:27Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47038351" lon="-76.53844868">
+<ele>1173.540</ele>
+<time>2016-05-14T13:48:40Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47055065" lon="-76.53853199">
+<ele>1171.910</ele>
+<time>2016-05-14T13:48:49Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47058669" lon="-76.53849319">
+<ele>1169.980</ele>
+<time>2016-05-14T13:48:56Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47058174" lon="-76.53839914">
+<ele>1167.230</ele>
+<time>2016-05-14T13:49:02Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47058090" lon="-76.53829227">
+<ele>1164.370</ele>
+<time>2016-05-14T13:49:13Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47057562" lon="-76.53828531">
+<ele>1164.350</ele>
+<time>2016-05-14T13:49:17Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47048342" lon="-76.53812991">
+<ele>1163.610</ele>
+<time>2016-05-14T13:50:22Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47045685" lon="-76.53782406">
+<ele>1160.740</ele>
+<time>2016-05-14T13:50:34Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47042240" lon="-76.53754570">
+<ele>1157.370</ele>
+<time>2016-05-14T13:50:43Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47048527" lon="-76.53730002">
+<ele>1154.680</ele>
+<time>2016-05-14T13:50:53Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47074435" lon="-76.53732919">
+<ele>1151.670</ele>
+<time>2016-05-14T13:51:02Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47098039" lon="-76.53742265">
+<ele>1148.600</ele>
+<time>2016-05-14T13:51:12Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47121474" lon="-76.53736641">
+<ele>1145.460</ele>
+<time>2016-05-14T13:51:22Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47131524" lon="-76.53716197">
+<ele>1142.320</ele>
+<time>2016-05-14T13:51:30Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47141633" lon="-76.53697288">
+<ele>1139.420</ele>
+<time>2016-05-14T13:51:37Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47158715" lon="-76.53670642">
+<ele>1136.150</ele>
+<time>2016-05-14T13:51:46Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47171313" lon="-76.53636510">
+<ele>1133.220</ele>
+<time>2016-05-14T13:51:57Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47184950" lon="-76.53614324">
+<ele>1129.970</ele>
+<time>2016-05-14T13:52:05Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47205570" lon="-76.53594836">
+<ele>1126.760</ele>
+<time>2016-05-14T13:52:14Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47222870" lon="-76.53586890">
+<ele>1124.630</ele>
+<time>2016-05-14T13:52:20Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47248401" lon="-76.53573990">
+<ele>1121.360</ele>
+<time>2016-05-14T13:52:28Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47258669" lon="-76.53568760">
+<ele>1119.880</ele>
+<time>2016-05-14T13:52:31Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47284729" lon="-76.53553119">
+<ele>1116.740</ele>
+<time>2016-05-14T13:52:39Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47307318" lon="-76.53539565">
+<ele>1113.450</ele>
+<time>2016-05-14T13:52:46Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47329245" lon="-76.53529993">
+<ele>1110.030</ele>
+<time>2016-05-14T13:52:53Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47356453" lon="-76.53527881">
+<ele>1106.680</ele>
+<time>2016-05-14T13:53:02Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47368523" lon="-76.53530119">
+<ele>1104.930</ele>
+<time>2016-05-14T13:53:06Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47400340" lon="-76.53539037">
+<ele>1101.780</ele>
+<time>2016-05-14T13:53:18Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47425779" lon="-76.53550462">
+<ele>1098.730</ele>
+<time>2016-05-14T13:53:29Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47455585" lon="-76.53564007">
+<ele>1095.530</ele>
+<time>2016-05-14T13:53:41Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47483371" lon="-76.53580360">
+<ele>1092.300</ele>
+<time>2016-05-14T13:53:54Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47506388" lon="-76.53597074">
+<ele>1089.250</ele>
+<time>2016-05-14T13:54:06Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47534333" lon="-76.53584786">
+<ele>1086.810</ele>
+<time>2016-05-14T13:54:18Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47559865" lon="-76.53563856">
+<ele>1083.690</ele>
+<time>2016-05-14T13:54:31Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47578531" lon="-76.53546162">
+<ele>1080.670</ele>
+<time>2016-05-14T13:54:41Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>28.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47609578" lon="-76.53518510">
+<ele>1078.260</ele>
+<time>2016-05-14T13:54:55Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47632343" lon="-76.53499274">
+<ele>1075.470</ele>
+<time>2016-05-14T13:55:08Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47640180" lon="-76.53485628">
+<ele>1073.690</ele>
+<time>2016-05-14T13:55:20Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47624565" lon="-76.53452477">
+<ele>1070.690</ele>
+<time>2016-05-14T13:58:16Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47622561" lon="-76.53449938">
+<ele>1070.030</ele>
+<time>2016-05-14T13:58:20Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47617574" lon="-76.53443073">
+<ele>1069.390</ele>
+<time>2016-05-14T13:58:26Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47617297" lon="-76.53433962">
+<ele>1066.810</ele>
+<time>2016-05-14T13:58:33Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47616057" lon="-76.53427969">
+<ele>1063.910</ele>
+<time>2016-05-14T13:58:38Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47616929" lon="-76.53415438">
+<ele>1060.180</ele>
+<time>2016-05-14T13:58:46Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47613584" lon="-76.53404566">
+<ele>1056.970</ele>
+<time>2016-05-14T13:58:53Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47609142" lon="-76.53397467">
+<ele>1054.800</ele>
+<time>2016-05-14T13:58:57Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47613878" lon="-76.53394542">
+<ele>1052.960</ele>
+<time>2016-05-14T13:59:01Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47618781" lon="-76.53394156">
+<ele>1052.220</ele>
+<time>2016-05-14T13:59:03Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>30.00</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47636073" lon="-76.53393938">
+<ele>1049.260</ele>
+<time>2016-05-14T13:59:11Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47639585" lon="-76.53384970">
+<ele>1046.940</ele>
+<time>2016-05-14T13:59:16Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.80</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47636735" lon="-76.53378138">
+<ele>1046.570</ele>
+<time>2016-05-14T13:59:19Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.70</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47621161" lon="-76.53344502">
+<ele>1043.010</ele>
+<time>2016-05-14T13:59:31Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47611723" lon="-76.53308242">
+<ele>1039.790</ele>
+<time>2016-05-14T13:59:43Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47582169" lon="-76.53280439">
+<ele>1036.620</ele>
+<time>2016-05-14T13:59:56Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.60</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47558004" lon="-76.53265025">
+<ele>1034.110</ele>
+<time>2016-05-14T14:00:08Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.50</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47554106" lon="-76.53260691">
+<ele>1033.060</ele>
+<time>2016-05-14T14:00:11Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47571407" lon="-76.53244229">
+<ele>1029.670</ele>
+<time>2016-05-14T14:00:21Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47575857" lon="-76.53245838">
+<ele>1028.690</ele>
+<time>2016-05-14T14:00:30Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47580819" lon="-76.53249149">
+<ele>1028.450</ele>
+<time>2016-05-14T14:00:35Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47601850" lon="-76.53254757">
+<ele>1026.640</ele>
+<time>2016-05-14T14:00:44Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47603995" lon="-76.53254522">
+<ele>1026.420</ele>
+<time>2016-05-14T14:00:45Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47617406" lon="-76.53231841">
+<ele>1022.920</ele>
+<time>2016-05-14T14:00:55Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47622251" lon="-76.53209453">
+<ele>1019.870</ele>
+<time>2016-05-14T14:01:04Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47625788" lon="-76.53189881">
+<ele>1016.490</ele>
+<time>2016-05-14T14:01:12Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47625570" lon="-76.53174542">
+<ele>1013.080</ele>
+<time>2016-05-14T14:01:18Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47615780" lon="-76.53155364">
+<ele>1009.630</ele>
+<time>2016-05-14T14:01:25Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47599603" lon="-76.53136547">
+<ele>1006.320</ele>
+<time>2016-05-14T14:01:33Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47595295" lon="-76.53131744">
+<ele>1005.660</ele>
+<time>2016-05-14T14:01:35Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47579855" lon="-76.53113002">
+<ele>1002.560</ele>
+<time>2016-05-14T14:01:43Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.40</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47576519" lon="-76.53085350">
+<ele>999.190</ele>
+<time>2016-05-14T14:01:52Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47588237" lon="-76.53057832">
+<ele>996.040</ele>
+<time>2016-05-14T14:02:01Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47590710" lon="-76.53052166">
+<ele>995.220</ele>
+<time>2016-05-14T14:02:03Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.30</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47595387" lon="-76.53028454">
+<ele>991.590</ele>
+<time>2016-05-14T14:02:11Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47594331" lon="-76.53016501">
+<ele>990.000</ele>
+<time>2016-05-14T14:02:16Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47592512" lon="-76.53011623">
+<ele>989.770</ele>
+<time>2016-05-14T14:02:20Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47592110" lon="-76.53009108">
+<ele>989.660</ele>
+<time>2016-05-14T14:02:22Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.20</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+<trkpt lat="3.47591716" lon="-76.52991984">
+<ele>988.410</ele>
+<time>2016-05-14T14:02:35Z</time>
+<extensions>
+<TrackPointExtension xmlns="http://www.garmin.com/xmlschemas/TrackPointExtension/v1">
+<atemp>29.10</atemp>
+</TrackPointExtension>
+</extensions>
+</trkpt>
+</trkseg>
+</trk>
+<extensions>
+</extensions>
+</gpx>
